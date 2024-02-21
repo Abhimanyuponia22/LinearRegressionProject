@@ -1,0 +1,1 @@
+We'll work with the Ecommerce Customers csv file from the company. It has Customer info, suchas Email, Address, and their color Avatar. With the help of Linear Regression model we will be trying to predict wheather company should focus more on mobile app or website development
